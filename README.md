@@ -1,7 +1,6 @@
 # VanillaNews-Engine
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/g0rkemberke/VanillaNews-Engine)
-Tabii ki, README dosyasını profesyonel ve sade bir İngilizce ile yeniden düzenledim:
 
 VanillaNews-Engine (DOM Manipulation Project)
 About the Project
